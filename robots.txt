@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mhazeeq-99.github.io/nrcep-guide/sitemap.xml
